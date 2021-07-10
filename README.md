@@ -7,9 +7,12 @@ This project is ment to run in tandem with [React client side auth tutorial](htt
 - Node.js and MongoDB installed on your system
 
 To use additional features you'll also need Google developer account with configured Oath credentials and ReCAPTCHA.
+
 To send emails this tutorial uses Mailgun as an ESP, so you'll need credentials for it on server side.
 
-### `npm instal`
+Mock data provided in data folder is for creating "feedbacks" and "orders" mongoDB collections.
+
+### `npm install`
 
 ### `npm start`
 

@@ -2,7 +2,7 @@
   "name": "express-session-auth-tutorial-starter",
   "version": "1.0.1",
   "author": {
-    "name": "Dataod <contact@dataod.com>"
+    "name": "dataod <contact@dataod.com>"
   },
   "description": "Backend for React/Express authentication tutorial",
   "main": "server.js",
